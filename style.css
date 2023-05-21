@@ -210,11 +210,17 @@ code {
  }
 
  .teaser-carousel {
-    width: 850px;
+    width: 1000px;
     margin: auto;
     height: 350px;
  }
 
+ .subteaser-carousel {
+    width: 1000px;
+    margin: auto;
+    height: 350px;
+ }
+ 
  .caption {
     font-family: Chalkduster;
     color: black;
@@ -240,5 +246,5 @@ code {
 
 
 .teaser-img {
-    width: 350px !important;
+    width: 300px !important;
 }
