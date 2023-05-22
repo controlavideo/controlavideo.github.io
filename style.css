@@ -53,6 +53,16 @@ sup {
     font-size: smaller;
 }
 
+.new_container {
+	display: flex;
+	align-item: center;
+	justify-content: center;
+}
+.mew_box {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
 
 .container {
 	width: 1000px;
@@ -247,4 +257,10 @@ code {
 
 .teaser-img {
     width: 300px !important;
+    height: 300px !important;
+}
+
+.teaser-longimg {
+    width: 800px !important;
+    height: 200px !important;
 }
